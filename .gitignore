@@ -3,3 +3,61 @@
 ################################################################################
 
 /Blog/appsettings.json
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## ASP.NET
+appsettings.*.json
+secrets.json
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## dotCover
+.idea/
+*.dotCover
+
+## Others
+*.log
+*.ncb
+*.cache
+*.dbmdl
+*.bak
+*.tmp
+*.pidb
+*.svclog
+
+# Azure Pipelines
+.azure-pipelines/
+
+# JetBrains Rider
+.idea/
+
+# NUnit Test Results
+TestResult.xml
+TestResult-*.xml
